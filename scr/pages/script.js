@@ -7,6 +7,6 @@ document.addEventListener('DOMContentLoaded',function(){
     }
 
     const infoElement = document.createElement('h1')
-    infoElement.textContent = `${info.Sn} ${info.group}`
+    infoElement.textContent = `${info.SN} ${info.group}`
     header.appendChild(infoElement)
 })
