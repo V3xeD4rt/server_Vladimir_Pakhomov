@@ -23,7 +23,7 @@ class Calc{
         };
     }
 }
-
+new Calc()
 
 
 /*
